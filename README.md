@@ -6,7 +6,7 @@ Besides you can see my program / project framework outside this repository, you 
 
 1.) [https://business-card.mjuliandaal.repl.co/ ](https://1aeb88ec-286a-4eef-a7bc-22763624d6ed-00-g6njrdvljy0b.spock.replit.dev/)(My Business card/name card) <br>
 2.) https://myregistproject.000webhostapp.com/ (Login Account Google with Database Management System) <br>
-3.) [https://botnandut.mjuliandaal.repl.co/](https://ecc6a11d-07f6-4cd0-9086-31e39fe2d846-00-18czcjaeev5q1.worf.replit.dev/) (Fake Bot)<br>
+3.) [https://botnandut.mjuliandaal.repl.co/](https://ecc6a11d-07f6-4cd0-9086-31e39fe2d846-00-18czcjaeev5q1.worf.replit.dev/) (Fake Bot With Bahasa Indonesia)<br>
 4.) https://uas-m.000webhostapp.com/ (Simple Employee Management System Web)<br>
 
 Sorry if the site I provided contains warnings or errors, because it uses free web hosting, but the website can still be run
